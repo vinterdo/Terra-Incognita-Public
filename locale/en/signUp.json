@@ -1,0 +1,25 @@
+{
+  "formTitle": "Create account",
+  "backButton": "Back",
+  "createAccountButton": "Create account",
+  "duplicatedEmail": "Email is already used",
+  "duplicatedUsername": "Username is already taken",
+  "username": {
+    "Pattern": "This username is not allowed",
+    "placeholder": "Username",
+    "info": "Username must be at most 30 characters long, build from letters, number, spaces, underscores and hyphens"
+  },
+  "email": {
+    "Email": "Invalid email",
+    "placeholder": "Email@example.com"
+  },
+  "password1": {
+    "Size": "Password is too short",
+    "ArgumentsEqual": "Password does not match",
+    "placeholder": "Password",
+    "info": "Password must be between 8 and 128 characters long"
+  },
+  "password2": {
+    "placeholder": "Repeat password"
+  }
+}

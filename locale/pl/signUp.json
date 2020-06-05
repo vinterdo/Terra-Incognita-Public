@@ -1,0 +1,25 @@
+{
+  "formTitle": "Nowe konto",
+  "backButton": "Wróć",
+  "createAccountButton": "Stwórz konto",
+  "duplicatedEmail": "Użytkownik o takim emailu już istnieje",
+  "duplicatedUsername": "Użytkownik o takiej nazwie już istnieje",
+  "username": {
+    "Pattern": "Taka nazwa użytkownika jest niedozwolona",
+    "placeholder": "Nazwa użytkownika",
+    "info": "Nazwa użytkownika musi mieć co najwyżej 30 znaków, składać się z znaków alfanumerycznych, myślników, podkreślników i spacji"
+  },
+  "email": {
+    "Email": "Nieprawidłowy email",
+    "placeholder": "Email@example.com"
+  },
+  "password1": {
+    "Size": "Hasło za krótkie",
+    "ArgumentsEqual": "Hasła się nie zgadzają",
+    "placeholder": "Hasło",
+    "info": "Hasło musi mieć pomiędzy 8 a 128 znaków"
+  },
+  "password2": {
+    "placeholder": "Powtórz hasło"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "formTitle": "Zaloguj się",
+  "logInButtonText": "Zaloguj się",
+  "registerButtonText": "Stwórz nowe konto",
+  "invalidCredentials": "Nieprawidłowy użytkownik lub hasło",
+  "username": {
+    "placeholder": "Login",
+    "NotBlank": "Wpisz login"
+  },
+  "password": {
+    "placeholder": "Hasło",
+    "NotBlank": "Wpisz hasło"
+  }
+}
