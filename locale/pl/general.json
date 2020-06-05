@@ -1,0 +1,11 @@
+{
+  "gameTitle": "Terra Incognita",
+  "topNavbar": {
+    "logout": "Wyloguj",
+    "myGames": "Moje gry",
+    "browseGames": "Przeglądaj gry",
+    "createGame": "Nowa gra",
+    "wiki": "Wiki",
+    "settings": "Ustawienia"
+  }
+}

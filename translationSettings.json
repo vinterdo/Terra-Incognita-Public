@@ -1,0 +1,31 @@
+{
+
+  "defaultTranslation": "en",
+  "translationToCodes": {
+    "en": [
+      "en-US",
+      "en-GB",
+      "en-AU",
+      "en-CA",
+      "en-NZ",
+      "en-IE",
+      "en-ZA",
+      "en-JM",
+      "en-CB",
+      "en-BZ",
+      "en-TT",
+      "en-ZW",
+      "en-PH",
+      "en-ID",
+      "en-HK",
+      "en-IN",
+      "en-MY",
+      "en-SG",
+      "en"
+    ],
+    "pl": [
+      "pl-PL",
+      "pl"
+    ]
+  }
+}
