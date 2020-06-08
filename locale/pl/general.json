@@ -7,5 +7,9 @@
     "createGame": "Nowa gra",
     "wiki": "Wiki",
     "settings": "Ustawienia"
+  },
+  "account": "konto",
+  "settings": {
+    "removeAccount": "Usuń konto"
   }
 }
