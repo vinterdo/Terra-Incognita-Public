@@ -8,8 +8,7 @@
     "wiki": "Wiki",
     "settings": "Ustawienia"
   },
-  "account": "konto",
   "settings": {
-    "removeAccount": "Usuń konto"
+    "deleteAccount": "Usuń konto"
   }
 }
