@@ -1,0 +1,9 @@
+{
+    "title": "account",
+    "deleteAccount": {
+      "invalidCredentials": "Wrong password",
+      "title": "Are you sure?",
+      "submitButtonText": "Submit",
+      "info": "This action is IRREVERSIBLE. We will remove all sensitive data about you. All your games will be deleted. You will be marked as \"defeated\" in games you are currently playing. If you are sure - enter your password here."
+    }
+}

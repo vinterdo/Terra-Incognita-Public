@@ -2,10 +2,10 @@
   "formTitle": "Log in",
   "logInButtonText": "Log in",
   "registerButtonText": "Create new account",
-  "invalidCredentials": "Invalid username or password",
-  "username": {
-    "placeholder": "Username",
-    "NotBlank": "Fill username"
+  "invalidCredentials": "Invalid e-mail or password",
+  "email": {
+    "placeholder": "E-mail address",
+    "NotBlank": "Fill e-mail address"
   },
   "password": {
     "placeholder": "Password",
