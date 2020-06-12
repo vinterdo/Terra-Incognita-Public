@@ -1,6 +1,7 @@
 {
   "title": "konto",
   "deleteAccount": {
+    "invalidCredentials": "Złe hasło",
     "title": "Aby na pewno?",
     "submitButtonText": "Zatwierdź",
     "info": "Ta akcja jest NIEODRWACALNA. Wszystkie Twoje wrażliwe dane zostaną usunięte. Wszystkie Twoje gry zostaną usunięte. Zostaniesz oznaczony jako \"pokonany\" w grach, w których bierzesz udział. Jeśli jesteś pewny/a - wpisz swoje hasło poniżej."

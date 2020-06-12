@@ -2,10 +2,10 @@
   "formTitle": "Zaloguj się",
   "logInButtonText": "Zaloguj się",
   "registerButtonText": "Stwórz nowe konto",
-  "invalidCredentials": "Nieprawidłowy użytkownik lub hasło",
-  "username": {
-    "placeholder": "Login",
-    "NotBlank": "Wpisz login"
+  "invalidCredentials": "Nieprawidłowy adres e-mail lub hasło",
+  "email": {
+    "placeholder": "Adres e-mail",
+    "NotBlank": "Wpisz adres e-mail"
   },
   "password": {
     "placeholder": "Hasło",
