@@ -1,0 +1,13 @@
+{
+  "send": "Change language",
+  "successMessage": "Language changed",
+  "language": {
+    "label": "Language",
+    "info": "Use Autodetect to use your browser language"
+  },
+  "languages": {
+    "en": "English (English)",
+    "pl": "Polish (Polski)",
+    "default": "Autodetect from browser"
+  }
+}

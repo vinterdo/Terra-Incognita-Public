@@ -1,0 +1,13 @@
+{
+  "send": "Zmień język",
+  "successMessage": "Język zmieniony",
+  "language": {
+    "label": "Język",
+    "info": "Użyj 'Wykryj' aby użyć języka z przeglądarki"
+  },
+  "languages": {
+    "en": "Angielski (English)",
+    "pl": "Polski (Polski)",
+    "default": "Wykryj z przeglądarki"
+  }
+}
