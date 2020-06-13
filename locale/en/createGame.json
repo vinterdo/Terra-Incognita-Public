@@ -1,0 +1,52 @@
+{
+  "formTitle": "Create new game",
+  "createGameButton": "Create game",
+  "successMessage": "Game created",
+  "duplicateGameName": "Game with that name already exist",
+  "userGamesLimitReachedLong": "You have already created {gameLimit} games. To create new game, remove any of your old games, transfer any of your game to other player.",
+  "userGamesLimitReached": "You already created {gameLimit} games, remove any of your old games",
+  "name": {
+    "label": "Game name",
+    "placeholder": "Name",
+    "info": "Game name must be unique, be between 3 and 128 characters long, and use only alphanumeric characters, dashes, underscores and spaces",
+    "Size": "Game name must be between 3 and 128 characters long",
+    "Pattern": "Game name must use only alphanumeric characters, dashes, underscores and spaces"
+  },
+  "privacy": {
+    "label": "Game privacy",
+    "options": {
+      "private": "Private",
+      "password": "Password",
+      "public": "Public"
+    },
+    "info": "Use private for invitation only, password for password protected games or public for games available for everyone"
+  },
+  "password1": {
+    "label": "Password",
+    "placeholder": "Password",
+    "ArgumentsEqual": "Passwords do not match"
+  },
+  "password2": {
+    "label": "Repeat password",
+    "placeholder": "Repeat password"
+  },
+  "playerNumber": {
+    "label": "Number of players",
+    "info": "Maximum number of players in game"
+  },
+  "daysPerTurn": {
+    "label": "Days per turn",
+    "info": "Maximum length of game turn"
+  },
+  "mapSize": {
+    "label": "Map size",
+    "info": "Size of map: \n XS: 200 provinces \n S: 400 provinces \n M: 600 provinces \n L: 800 provinces \n XL: 1000 provinces",
+    "options": {
+      "XS": "XS",
+      "S": "S",
+      "M": "M",
+      "L": "L",
+      "XL": "XL"
+    }
+  }
+}

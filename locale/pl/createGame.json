@@ -1,0 +1,52 @@
+{
+  "formTitle": "Stwórz grę",
+  "createGameButton": "Stwórz grę",
+  "successMessage": "Gra stworzona",
+  "duplicateGameName": "Gra o takiej nazwie już istnieje",
+  "userGamesLimitReachedLong": "Stworzyłeś już {gameLimit} gier. Aby stworzyć nową grę skasuj, zakończ lub przetransferuj którąś ze swoich gier.",
+  "userGamesLimitReached": "Stworzyłeś już {gameLimit} gier, skasuj, zakończ lub przetransferuj którąś ze swoich gier",
+  "name": {
+    "label": "Nazwa gry",
+    "placeholder": "Nazwa",
+    "info": "Nazwa gry musi być unikalna, posiadać pomiędzy 3 a 128 znaków, składać się tylko liter, cyfr, myślników, podkreślników i spacji",
+    "Size": "Nazwa musi mieć pomiędzy 3 a 128 znaków długości",
+    "Pattern": "Nazwa gry musi składać się tylko liter, cyfr, myślników, podkreślników i spacji"
+  },
+  "privacy": {
+    "label": "Prywatność",
+    "options": {
+      "private": "Prywatna",
+      "password": "Hasło",
+      "public": "Publiczna"
+    },
+    "info": "Gry prywatne są dostępne tylko dla zaproszonych graczy, gry z hasłem dostępne po wpisaniu hasła a publiczne dostępne dla każdego gracza"
+  },
+  "password1": {
+    "label": "Hasło",
+    "placeholder": "Hasło",
+    "ArgumentsEqual": "Hasła się nie zgadzają"
+  },
+  "password2": {
+    "label": "Powtórz hasło",
+    "placeholder": "Powtórz hasło"
+  },
+  "playerNumber": {
+    "label": "Liczba graczy",
+    "info": "Maksymalna liczba graczy w grze"
+  },
+  "daysPerTurn": {
+    "label": "Dni na turę",
+    "info": "Maksymalna długość jednej tury"
+  },
+  "mapSize": {
+    "label": "Wielkość mapy",
+    "info": "Wielkości mapy: \n XS: 200 prowincji \n S: 400 prowincji \n M: 600 prowincji \n L: 800 prowincji \n XL: 1000 prowincji",
+    "options": {
+      "XS": "XS",
+      "S": "S",
+      "M": "M",
+      "L": "L",
+      "XL": "XL"
+    }
+  }
+}
