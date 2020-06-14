@@ -1,0 +1,24 @@
+{
+  "nameFilter": "Nazwa",
+  "ownerFilter": "Właściciel",
+  "stateFilter": "Stan",
+  "stateFilterPlaceholder": "Dowolny",
+  "states": {
+    "any": "Dowolny",
+    "starting": "Start",
+    "generating": "Generowanie",
+    "inProgress": "W trakcie tury",
+    "waitingForMapGen": "Generowanie mapy",
+    "waitingForResolve": "Rozwiązywanie tury",
+    "deleted": "Skasowana",
+    "finished": "Skończona"
+  },
+  "seeGameButton": "Do gry",
+  "previousPage": "Poprzednia",
+  "nextPage": "Następna",
+  "pageText": "Strona",
+  "ofText": "z",
+  "rowsText": "gier",
+  "loading": "Ładowanie...",
+  "noDataText": "Nie znaleziono gier"
+}
