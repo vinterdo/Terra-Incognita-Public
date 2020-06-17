@@ -1,0 +1,11 @@
+{
+  "joinColumn": {
+    "joinButton": "Join",
+    "gameFullButton": "Game full",
+    "notInvitedButton": "Not invited",
+    "seeGameButton": "See game",
+    "gameFinishedButton": "Game finished",
+    "gameInProgressButton": "Game in progress",
+    "enterPassword": "Enter password"
+  }
+}
