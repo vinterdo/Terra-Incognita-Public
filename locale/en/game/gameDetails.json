@@ -1,0 +1,10 @@
+{
+  "startGameButton": "Start game",
+  "deleteGameButton": "Delete game",
+  "resignButton": "Resign",
+  "leaveGameButton": "Leave",
+  "inviteButton": "Invite",
+
+  "invitedPlayers": "Invited players:",
+  "userDoesNotExistError": "User with that name does not exist"
+}

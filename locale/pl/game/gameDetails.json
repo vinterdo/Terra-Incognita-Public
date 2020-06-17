@@ -1,0 +1,10 @@
+{
+  "startGameButton": "Rozpocznij grę",
+  "deleteGameButton": "Skasuj grę",
+  "resignButton": "Zrezygnuj",
+  "leaveGameButton": "Opuść grę",
+  "inviteButton": "Zaproś",
+
+  "invitedPlayers": "Zaproszeni gracze:",
+  "userDoesNotExistError": "Taki użytkownik nie istnieje"
+}
