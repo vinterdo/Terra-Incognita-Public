@@ -1,0 +1,60 @@
+{
+  "loading": "Ładowanie...",
+  "previousPage": "Poprzednia",
+  "nextPage": "Następna",
+  "pageText": "Strona",
+  "ofText": "z",
+  "rowsText": "wyników",
+  "noDataText": "Nie znaleziono wyników",
+  "filters": {
+    "daysPerTurn": {
+      "header": "Dni na turę"
+    },
+    "gameOwner": {
+      "header": "Właściciel"
+    },
+    "gameName": {
+      "header": "Nazwa"
+    },
+    "mapSize": {
+      "header": "Wielkość mapy",
+      "options": {
+        "any": "Dowolna",
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL"
+      }
+    },
+    "gameMaxPlayers": {
+      "header": "Limit graczy"
+    },
+    "gamePlayers": {
+      "header": "Gracze"
+    },
+    "gamePrivacy": {
+      "header": "Prywatność",
+      "options": {
+        "any": "Dowolna",
+        "public": "Publiczna",
+        "private": "Prywatna",
+        "password": "Hasło"
+      }
+    },
+    "gameState": {
+      "header": "Stan",
+      "placeholder": "Dowolny",
+      "states": {
+        "any": "Dowolny",
+        "starting": "Start",
+        "generating": "Generowanie",
+        "inProgress": "W trakcie tury",
+        "waitingForMapGen": "Generowanie mapy",
+        "waitingForResolve": "Rozwiązywanie tury",
+        "deleted": "Skasowana",
+        "finished": "Skończona"
+      }
+    }
+  }
+}

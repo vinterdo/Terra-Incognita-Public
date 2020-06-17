@@ -1,0 +1,60 @@
+{
+  "loading": "Loading...",
+  "previousPage": "Previous",
+  "nextPage": "Next",
+  "pageText": "Page",
+  "ofText": "of",
+  "rowsText": "results",
+  "noDataText": "No data found",
+  "filters": {
+    "daysPerTurn": {
+      "header": "Days per turn"
+    },
+    "gameOwner": {
+      "header": "Owner"
+    },
+    "gameName": {
+      "header": "Name"
+    },
+    "mapSize": {
+      "header": "Map size",
+      "options": {
+        "any": "Any",
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL"
+      }
+    },
+    "gameMaxPlayers": {
+      "header": "Max players"
+    },
+    "gamePlayers": {
+      "header": "Players"
+    },
+    "gamePrivacy": {
+      "header": "Privacy",
+      "options": {
+        "any": "Any",
+        "public": "Public",
+        "private": "Private",
+        "password": "Password"
+      }
+    },
+    "gameState": {
+      "header": "State",
+      "placeholder": "Any",
+      "states": {
+        "any": "Any",
+        "starting": "Starting",
+        "generating": "Generating",
+        "inProgress": "Turn in progress",
+        "waitingForMapGen": "Generating map",
+        "waitingForResolve": "Resolving turn",
+        "deleted": "Deleted",
+        "finished": "Finished"
+      }
+    }
+  }
+}

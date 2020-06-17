@@ -1,24 +1,5 @@
 {
-  "nameFilter": "Name",
-  "ownerFilter": "Owner",
-  "stateFilter": "State",
-  "stateFilterPlaceholder": "Any",
-  "states": {
-    "any": "Any",
-    "starting": "Starting",
-    "generating": "Generating",
-    "inProgress": "Turn in progress",
-    "waitingForMapGen": "Generating map",
-    "waitingForResolve": "Resolving turn",
-    "deleted": "Deleted",
-    "finished": "Finished"
-  },
   "seeGameButton": "See game",
-  "previousPage": "Previous",
-  "nextPage": "Next",
-  "pageText": "Page",
-  "ofText": "of",
   "rowsText": "games",
-  "loading": "Loading...",
   "noDataText": "No games found"
 }
