@@ -1,0 +1,8 @@
+{
+  "messages": {
+    "gameInvitation": "{player} zaprosił cię do gry: {game}",
+    "gameDeleted": "Gra {game} została skasowana",
+    "gameStarted": "Gra {game} się rozpoczęła",
+    "default": "{type} {id}"
+  }
+}
