@@ -4,5 +4,9 @@
     "gameDeleted": "Gra {game} została skasowana",
     "gameStarted": "Gra {game} się rozpoczęła",
     "default": "{type} {id}"
+  },
+  "buttons": {
+    "invitationAccept": "Zaakceptuj zaproszenie",
+    "goToGame": "Przejdź do gry"
   }
 }

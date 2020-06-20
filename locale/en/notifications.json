@@ -4,5 +4,9 @@
     "gameDeleted": "Game {game} was deleted",
     "gameStarted": "Game {game} has been started",
     "default": "{type} {id}"
+  },
+  "buttons": {
+    "invitationAccept": "Accept invitation",
+    "goToGame": "Go to game"
   }
 }
