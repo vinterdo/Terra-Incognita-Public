@@ -1,10 +1,87 @@
 {
-  "startGameButton": "Rozpocznij grę",
-  "deleteGameButton": "Skasuj grę",
-  "resignButton": "Zrezygnuj",
-  "leaveGameButton": "Opuść grę",
   "inviteButton": "Zaproś",
+  "goToGameButton": "Otwórz grę",
 
   "invitedPlayers": "Zaproszeni gracze:",
-  "userDoesNotExistError": "Taki użytkownik nie istnieje"
+  "userDoesNotExistError": "Taki użytkownik nie istnieje",
+  "playerTable": {
+    "playerName": {
+      "header": "Gracz"
+    },
+    "playerStatus": {
+      "header": "Status",
+      "values": {
+        "player": "Gracz",
+        "owner": "Właściciel",
+        "invited": "Zaproszony",
+        "defeated": "Pokonany"
+      }
+    }
+  },
+  "eventLog": {
+    "time": {
+      "header": "Data"
+    },
+    "description": {
+      "header": "Wydarzenie"
+    }
+  },
+  "leaveGameButton": {
+    "buttonText":  "Wyjdź z gry",
+    "confirmText": "Czy na pewno chcesz wyjść z gry?",
+    "buttonYes": "Wyjdź",
+    "buttonNo": "Anuluj",
+    "success": "Wyszedłeś z gry"
+  },
+  "resignButton": {
+    "buttonText":  "Poddaj się",
+    "confirmText": "Czy na pewno chcesz się poddać?",
+    "buttonYes": "Git gut",
+    "buttonNo": "Anuluj",
+    "success": "Poddałeś się"
+  },
+  "deleteGameButton": {
+    "buttonText":  "Skasuj grę",
+    "confirmText": "Czy na pewno chcesz skasować grę?",
+    "buttonYes": "Skasuj grę",
+    "buttonNo": "Anuluj",
+    "success": "Gra została skasowana"
+  },
+  "startGameButton": {
+    "buttonText":  "Wystartuj grę",
+    "confirmText": "Czy na pewno chcesz wystartować grę?",
+    "buttonYes": "Start",
+    "buttonNo": "Anuluj",
+    "success": "Gra została wystartowana"
+  },
+  "settings": {
+    "turn": "Tura",
+    "timeLeft": "Pozostały czas tury",
+    "state": "Stan",
+    "privacy": "Prywatność",
+    "mapSize": "Wielkość mapy",
+    "maxPlayers": "Limit graczy",
+    "daysPerTurn": "Dni na turę",
+    "privacyValues": {
+      "private": "Prywatna",
+      "password": "Hasło",
+      "public": "Publiczna"
+    },
+    "stateValues": {
+      "starting": "Start",
+      "generating": "Generowanie",
+      "inProgress": "W trakcie tury",
+      "waitingForMapGen": "Generowanie mapy",
+      "waitingForResolve": "Rozwiązywanie tury",
+      "deleted": "Skasowana",
+      "finished": "Skończona"
+    },
+    "mapSizeValues": {
+      "XS": "XS",
+      "S": "S",
+      "M": "M",
+      "L": "L",
+      "XL": "XL"
+    }
+  }
 }

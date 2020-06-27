@@ -1,10 +1,87 @@
 {
-  "startGameButton": "Start game",
-  "deleteGameButton": "Delete game",
-  "resignButton": "Resign",
-  "leaveGameButton": "Leave",
   "inviteButton": "Invite",
+  "goToGameButton": "Open game",
 
   "invitedPlayers": "Invited players:",
-  "userDoesNotExistError": "User with that name does not exist"
+  "userDoesNotExistError": "User with that name does not exist",
+  "playerTable": {
+    "playerName": {
+      "header": "Player"
+    },
+    "playerStatus": {
+      "header": "Status",
+      "values": {
+        "player": "Player",
+        "owner": "Owner",
+        "invited": "Invited",
+        "defeated": "Defeated"
+      }
+    }
+  },
+  "eventLog": {
+    "time": {
+      "header": "Date"
+    },
+    "description": {
+      "header": "Event"
+    }
+  },
+  "leaveGameButton": {
+    "buttonText":  "Leave game",
+    "confirmText": "Are you sure you want to leave the game?",
+    "buttonYes": "Leave game",
+    "buttonNo": "Cancel",
+    "success": "You left the game"
+  },
+  "resignButton": {
+    "buttonText":  "Surrender",
+    "confirmText": "Are you sure you want to surrender the game?",
+    "buttonYes": "Git gut",
+    "buttonNo": "Cancel",
+    "success": "Surrendered"
+  },
+  "deleteGameButton": {
+    "buttonText":  "Delete game",
+    "confirmText": "Are you sure you want to delete the game?",
+    "buttonYes": "Delete game",
+    "buttonNo": "Cancel",
+    "success": "Game was deleted"
+  },
+  "startGameButton": {
+    "buttonText":  "Start game",
+    "confirmText": "Are you sure you want to start the game?",
+    "buttonYes": "Start game",
+    "buttonNo": "Cancel",
+    "success": "Game is started"
+  },
+  "settings": {
+    "turn": "Turn",
+    "timeLeft": "Turn time left",
+    "state": "State",
+    "privacy": "Privacy",
+    "mapSize": "Map size",
+    "maxPlayers": "Max players",
+    "daysPerTurn": "Days per turn",
+    "privacyValues": {
+      "private": "Private",
+      "password": "Password",
+      "public": "Public"
+    },
+    "stateValues": {
+      "starting": "Starting",
+      "generating": "Generating",
+      "inProgress": "Turn in progress",
+      "waitingForMapGen": "Generating map",
+      "waitingForResolve": "Resolving turn",
+      "deleted": "Deleted",
+      "finished": "Finished"
+    },
+    "mapSizeValues": {
+      "XS": "XS",
+      "S": "S",
+      "M": "M",
+      "L": "L",
+      "XL": "XL"
+    }
+  }
 }
