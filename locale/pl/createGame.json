@@ -40,7 +40,7 @@
   },
   "mapSize": {
     "label": "Wielkość mapy",
-    "info": "Wielkości mapy: \n XS: 200 prowincji \n S: 400 prowincji \n M: 600 prowincji \n L: 800 prowincji \n XL: 1000 prowincji",
+    "info": "Wielkości mapy: \n XS: 140 prowincji \n S: 350 prowincji \n M: 700 prowincji \n L: 1400 prowincji \n XL: 2100 prowincji",
     "options": {
       "XS": "XS",
       "S": "S",

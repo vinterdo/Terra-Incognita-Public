@@ -40,7 +40,7 @@
   },
   "mapSize": {
     "label": "Map size",
-    "info": "Size of map: \n XS: 200 provinces \n S: 400 provinces \n M: 600 provinces \n L: 800 provinces \n XL: 1000 provinces",
+    "info": "Size of map: \n XS: 140 provinces \n S: 350 provinces \n M: 700 provinces \n L: 1400 provinces \n XL: 2100 provinces",
     "options": {
       "XS": "XS",
       "S": "S",
