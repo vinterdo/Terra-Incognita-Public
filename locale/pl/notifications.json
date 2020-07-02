@@ -3,6 +3,8 @@
     "gameInvitation": "{player} zaprosił cię do gry: {game}",
     "gameDeleted": "Gra {game} została skasowana",
     "gameStarted": "Gra {game} się rozpoczęła",
+    "gameExpired": "Gra {game} wygasła",
+    "gameAboutToExpire": "Gra {game} wygaśnie w ciągu 1 dnia, jeżeli się nie rozpocznie",
     "default": "{type} {id}"
   },
   "buttons": {
