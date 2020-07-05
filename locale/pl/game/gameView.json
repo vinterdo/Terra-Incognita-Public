@@ -1,5 +1,6 @@
 {
   "heimdall": {
-    "newTabPlaceholder": "Nowa zakładka"
+    "newTabPlaceholder": "Nowa zakładka",
+    "selectPlaceholder": "Wybierz okno..."
   }
 }
