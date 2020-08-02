@@ -1,6 +1,7 @@
 {
   "heimdall": {
     "newTabPlaceholder": "New tab",
-    "selectPlaceholder": "Select window..."
+    "selectPlaceholder": "Select window...",
+    "newBufferPlaceholder": "New buffer"
   }
 }
