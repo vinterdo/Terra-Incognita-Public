@@ -4,7 +4,9 @@
     "gameDeleted": "Game {game} was deleted",
     "gameStarted": "Game {game} has been started",
     "gameExpired": "Game {game} has expired",
+    "turnResolved": "New turn in game {game}",
     "gameAboutToExpire": "Game {game} will expire in one day if not started",
+    "gameAboutToEndTurn": "Turn in game {game} is about to auto-resolve in one day",
     "default": "{type} {id}"
   },
   "buttons": {

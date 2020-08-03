@@ -4,7 +4,9 @@
     "gameDeleted": "Gra {game} została skasowana",
     "gameStarted": "Gra {game} się rozpoczęła",
     "gameExpired": "Gra {game} wygasła",
+    "turnResolved": "Nowa tura w grze {game}",
     "gameAboutToExpire": "Gra {game} wygaśnie w ciągu 1 dnia, jeżeli się nie rozpocznie",
+    "gameAboutToEndTurn": "Tura w grze {game} zostanie zakończona w ciągu dnia",
     "default": "{type} {id}"
   },
   "buttons": {
