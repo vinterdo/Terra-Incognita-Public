@@ -10,5 +10,11 @@
   },
   "settings": {
     "deleteAccount": "Usuń konto"
+  },
+  "date": {
+    "days": "dni",
+    "hours": "godzin",
+    "minutes": "minut",
+    "seconds": "sekund"
   }
 }
