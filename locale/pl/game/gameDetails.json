@@ -54,6 +54,13 @@
     "buttonNo": "Anuluj",
     "success": "Gra została wystartowana"
   },
+  "endTurnButton": {
+    "buttonText":  "Zakończ turę",
+    "confirmText": "Czy na pewno chesz zakończyć swoją turę?",
+    "buttonYes": "Zakończ turę",
+    "buttonNo": "Anuluj",
+    "success": "Zakończyłeś swoją turę"
+  },
   "settings": {
     "turn": "Tura",
     "timeLeft": "Pozostały czas tury",

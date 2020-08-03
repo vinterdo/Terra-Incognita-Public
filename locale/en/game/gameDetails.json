@@ -54,6 +54,13 @@
     "buttonNo": "Cancel",
     "success": "Game is started"
   },
+  "endTurnButton": {
+    "buttonText":  "End turn",
+    "confirmText": "Are you sure you want to end your turn?",
+    "buttonYes": "End turn",
+    "buttonNo": "Cancel",
+    "success": "You've end your turn"
+  },
   "settings": {
     "turn": "Turn",
     "timeLeft": "Turn time left",
