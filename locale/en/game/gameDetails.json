@@ -4,6 +4,7 @@
 
   "invitedPlayers": "Invited players:",
   "userDoesNotExistError": "User with that name does not exist",
+  "expirationWarning": "This game will expire if not started! Game will expire at: ",
   "playerTable": {
     "playerName": {
       "header": "Player"

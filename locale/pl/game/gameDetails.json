@@ -4,6 +4,7 @@
 
   "invitedPlayers": "Zaproszeni gracze:",
   "userDoesNotExistError": "Taki użytkownik nie istnieje",
+  "expirationWarning": "Ta gra wygaśnie jeżeli nie zostanie rozpoczęta! Gra wygasa: ",
   "playerTable": {
     "playerName": {
       "header": "Gracz"
