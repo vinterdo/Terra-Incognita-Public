@@ -64,7 +64,7 @@
   },
   "settings": {
     "turn": "Tura",
-    "timeLeft": "Pozostały czas tury",
+    "timeLeft": "Koniec tury",
     "state": "Stan",
     "privacy": "Prywatność",
     "mapSize": "Wielkość mapy",

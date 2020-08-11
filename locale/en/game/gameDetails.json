@@ -64,7 +64,7 @@
   },
   "settings": {
     "turn": "Turn",
-    "timeLeft": "Turn time left",
+    "timeLeft": "Turn ends",
     "state": "State",
     "privacy": "Privacy",
     "mapSize": "Map size",
