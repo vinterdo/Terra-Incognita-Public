@@ -1,5 +1,6 @@
 {
-  "seeGameButton": "See game",
+  "seeGameButton": "Game details",
+  "goToGame": "Go to game",
   "rowsText": "games",
   "noDataText": "No games found"
 }

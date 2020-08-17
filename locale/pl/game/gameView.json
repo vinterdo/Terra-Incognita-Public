@@ -3,5 +3,10 @@
     "newTabPlaceholder": "Nowa zakładka",
     "selectPlaceholder": "Wybierz okno...",
     "newBufferPlaceholder": "Nowe okno"
+  },
+  "window":  {
+    "turnState": "Stan tury",
+    "gameMap": "Mapa",
+    "dropDown": "Dropdown"
   }
 }

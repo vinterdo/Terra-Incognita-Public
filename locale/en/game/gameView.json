@@ -3,5 +3,10 @@
     "newTabPlaceholder": "New tab",
     "selectPlaceholder": "Select window...",
     "newBufferPlaceholder": "New buffer"
+  },
+  "window":  {
+    "turnState": "Turn state",
+    "gameMap": "Game map",
+    "dropDown": "Dropdown"
   }
 }

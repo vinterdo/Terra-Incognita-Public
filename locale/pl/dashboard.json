@@ -1,5 +1,6 @@
 {
-  "seeGameButton": "Do gry",
+  "seeGameButton": "Szczegóły gry",
+  "goToGame": "Do gry",
   "rowsText": "gier",
   "noDataText": "Nie znaleziono gier"
 }
