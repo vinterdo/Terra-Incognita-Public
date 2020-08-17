@@ -1,6 +1,8 @@
 {
   "seeGameButton": "Game details",
-  "goToGame": "Go to game",
+  "turnPending": "Waiting for your turn",
+  "turnEnded": "Turn ended",
+  "players": "Players",
   "rowsText": "games",
   "noDataText": "No games found"
 }

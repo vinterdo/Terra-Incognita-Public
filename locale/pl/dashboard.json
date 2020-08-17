@@ -1,6 +1,8 @@
 {
   "seeGameButton": "Szczegóły gry",
-  "goToGame": "Do gry",
+  "turnPending": "Oczekiwanie na Twoją turę",
+  "turnEnded": "Tura zakończona",
+  "players": "Graczy",
   "rowsText": "gier",
   "noDataText": "Nie znaleziono gier"
 }
