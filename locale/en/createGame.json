@@ -3,7 +3,7 @@
   "createGameButton": "Create game",
   "successMessage": "Game created",
   "duplicateGameName": "Game with that name already exist",
-  "userGamesLimitReachedLong": "You have already created {gameLimit} games. To create new game, remove any of your old games, transfer any of your game to other player.",
+  "userGamesLimitReachedLong": "You have already created {currentGames} games out of {gameLimit} possible. To create new game, remove any of your old games, transfer any of your game to other player.",
   "userGamesLimitReached": "You already created {gameLimit} games, remove any of your old games",
   "name": {
     "label": "Game name",

@@ -3,7 +3,7 @@
   "createGameButton": "Stwórz grę",
   "successMessage": "Gra stworzona",
   "duplicateGameName": "Gra o takiej nazwie już istnieje",
-  "userGamesLimitReachedLong": "Stworzyłeś już {gameLimit} gier. Aby stworzyć nową grę skasuj, zakończ lub przetransferuj którąś ze swoich gier.",
+  "userGamesLimitReachedLong": "Stworzyłeś już {currentGames} gier z {gameLimit} możliwych. Aby stworzyć nową grę skasuj, zakończ lub przetransferuj którąś ze swoich gier.",
   "userGamesLimitReached": "Stworzyłeś już {gameLimit} gier, skasuj, zakończ lub przetransferuj którąś ze swoich gier",
   "name": {
     "label": "Nazwa gry",
